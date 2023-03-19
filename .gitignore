@@ -405,3 +405,5 @@ ASALocalRun/
 .localhistory/
 
 .history
+eTickets/db_data
+note.md
