@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using eTickets.Models.Data.Enum;
+using eTickets.Data.Enum;
 
 namespace eTickets.Models
 {

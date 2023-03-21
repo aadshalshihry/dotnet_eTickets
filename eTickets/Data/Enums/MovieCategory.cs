@@ -1,5 +1,5 @@
 ﻿using System;
-namespace eTickets.Models.Data.Enum
+namespace eTickets.Data.Enum
 {
 	public enum MovieCategory
 	{
